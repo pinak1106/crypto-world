@@ -28,7 +28,7 @@ function App() {
       
       <div className="footer" >
         <Typography.Title level={5} style={{color: 'white', textAlign: 'center'}}>
-            CryptoVerse<br/>
+            Crypto World<br/>
             All Rights Reserved
         </Typography.Title>
         <Space>
