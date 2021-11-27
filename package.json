@@ -2,6 +2,7 @@
   "name": "crypto-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pinak1106.github.io/crypto-world",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.6.2",
@@ -12,6 +13,7 @@
     "axios": "^0.24.0",
     "chart.js": "^3.6.0",
     "dotenv": "^10.0.0",
+    "gh-pages": "^3.2.3",
     "html-react-parser": "^1.4.0",
     "millify": "^4.0.0",
     "moment": "^2.29.1",
@@ -27,7 +29,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
