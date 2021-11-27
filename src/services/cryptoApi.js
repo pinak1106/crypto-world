@@ -41,6 +41,6 @@ export const {
 //     url: 'https://coinranking1.p.rapidapi.com/exchanges',
 //     headers: {
 //       'x-rapidapi-host': 'coinranking1.p.rapidapi.com',
-//       'x-rapidapi-key': 'd66c3433afmsh2f40f49c5806a62p1e0a45jsn9a022227589e'
+//       'x-rapidapi-key':
 //     }
 //   };
