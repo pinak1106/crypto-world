@@ -32,6 +32,6 @@ export const {
 //     headers: {
 //       'x-bingapis-sdk': 'true',
 //       'x-rapidapi-host': 'bing-news-search1.p.rapidapi.com',
-//       'x-rapidapi-key': 'd66c3433afmsh2f40f49c5806a62p1e0a45jsn9a022227589e'
+//       'x-rapidapi-key': ''
 //     }
 //   };
